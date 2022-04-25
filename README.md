@@ -1,1 +1,2 @@
-# OSS_0425_team_mission
+# OSS 0425 Team Mission
+This is the repository for 0425's team mission in OSS class.
